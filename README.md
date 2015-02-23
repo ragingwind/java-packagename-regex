@@ -31,4 +31,4 @@ npm i -d && npm test
 
 ## License
 
-MIT ©Jimmy Moon(https://github.com/ragingwind)
+MIT ©[Jimmy Moon](https://github.com/ragingwind)
