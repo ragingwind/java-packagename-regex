@@ -1,6 +1,6 @@
 # java-packagename-regex [![NPM version](https://badge.fury.io/js/java-packagename-regex.svg)](http://badge.fury.io/js/java-packagename-regex)
 
-> Regular expresson for matching dotfiles.
+> Regular expresson for Java package name.
 
 ## Install with [npm](npmjs.org)
 
